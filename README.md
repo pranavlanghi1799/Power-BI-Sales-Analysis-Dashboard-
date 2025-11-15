@@ -1,2 +1,3 @@
 # Power-BI-Sales-Analysis-Dashboard-
-This project is an interactive Power BI dashboard designed to analyze and visualize the key performance metrics of an e-commerce business. It provides a complete overview of sales, profits, customer behavior, and product performance.
+This Power BI dashboard provides a comprehensive analysis of e-commerce sales performance.
+The goal of this project is to identify key trends across sales amount, profit, product categories, and payment behaviors, helping businesses make data-driven decisions.
